@@ -159,6 +159,12 @@ body {
 }
 
 /* Media Queries for Mobile Devices */
+@media only screen and (max-width: 600px) {
 
+    body {
+        background-image: none;
+    }
+
+}
 
 
